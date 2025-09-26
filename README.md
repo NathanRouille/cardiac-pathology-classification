@@ -10,7 +10,7 @@ The task consisted in automatically classifying **150 subjects** into the follow
 - 4 – Abnormal right ventricle  
 
 My approach combined thorough feature analysis with advanced machine learning techniques. I used a **nested cross-validation** strategy to select the best-performing models, and introduced a **two-stage classification refinement** to reduce specific misclassifications between closely related pathologies.  
-I ranked **2nd out of 75 students** at Télécom Paris for this challenge, organized as part of a course project.  
+I ranked **2nd out of 75 students** (with an accuracy of 0.94) at Télécom Paris for this challenge, organized as part of a course project.  
 
 The repository includes:  
 - A Jupyter notebook detailing my methodology and experiments  
