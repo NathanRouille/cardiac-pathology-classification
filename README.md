@@ -1,4 +1,4 @@
-# Cardiac Pathology Prediction
+# Cardiac Pathology Prediction 
 
 This repository contains my solution to the Kaggle challenge on **Cardiac Pathology Prediction** at Télécom Paris, aiming to classify patients into one of five diagnostic categories from cardiac MRI data and basic clinical information (height, weight).   
 
