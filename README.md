@@ -1,13 +1,6 @@
 # Cardiac Pathology Prediction
 
-This repository contains my solution to the Kaggle challenge on **Cardiac Pathology Prediction** at Télécom Paris, aiming to classify patients into one of five diagnostic categories from cardiac MRI data and basic clinical information (height, weight).  
-
-The task consisted in automatically classifying **150 subjects** into the following categories:
-- 0 – Healthy controls  
-- 1 – Myocardial infarction  
-- 2 – Dilated cardiomyopathy  
-- 3 – Hypertrophic cardiomyopathy  
-- 4 – Abnormal right ventricle  
+This repository contains my solution to the Kaggle challenge on **Cardiac Pathology Prediction** at Télécom Paris, aiming to classify patients into one of five diagnostic categories from cardiac MRI data and basic clinical information (height, weight).   
 
 My approach combined thorough feature analysis with advanced machine learning techniques. I used a **nested cross-validation** strategy to select the best-performing models, and introduced a **two-stage classification refinement** to reduce specific misclassifications between closely related pathologies.  
 I ranked **2nd out of 75 students** (with an accuracy of 0.94) at Télécom Paris for this challenge, organized as part of a course project.  
